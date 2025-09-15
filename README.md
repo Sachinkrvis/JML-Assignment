@@ -9,7 +9,6 @@ This project processes train side-view/bottom-view videos to automatically:
 ---
 
 ## 📂 Project Structure  
-
 Assignment/
 │── app.py # Main pipeline runner
 │── requirements.txt # Python dependencies
